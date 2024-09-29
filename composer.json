@@ -1,0 +1,16 @@
+{
+    "name": "adars/busbridge",
+    "description": "Alexa skill",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adarsha Nepal",
+            "email": "adars.nepal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
